@@ -8,4 +8,4 @@
 | 703 - Kth Largest Element in a Stream | heap, loop | [Convert list to heap, delete every largest element to get an heap of length k. Every time we add values, we delete the larget element and return the smallest element.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/703%20-%20Kth%20Largest%20Element%20in%20a%20Stream.py) |
 | 682 - Baseball Game | array | [Iterate through ops, check different cases. Return the sum of all the scores.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/682%20-%20Baseball%20Game.py) | 
 | 100 - Same Tree | Tree | [Check if the two values are the same or not.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/100%20-%20Same%20Tree.py) |
-| 705 - Design HashSet | HashSet, Set | [use set ; add, discard and search elements in the set.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/705%20-%20Design%20HashSet) |
+| 705 - Design HashSet | HashSet, Set | [use set ; add, discard and search elements in the set.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/705%20-%20Design%20HashSet.py) |
