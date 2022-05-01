@@ -10,4 +10,4 @@
 | 100 - Same Tree | Tree | [Check if the two values are the same or not.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/100%20-%20Same%20Tree.py) |
 | 705 - Design HashSet | HashSet, Set | [Use set ; add, discard and search elements in the set.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/705%20-%20Design%20HashSet.py) |
 | 706 - Design HashMap | array, index | [Use an array, the key serves as an index in the array.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/706%20-%20Design%20HashMap.py) | 
-| 844 - Backspace String Compare | string, array, join | [Append to a list every char different from #, use join to build the new string](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/844%20-%20Backspace%20string%20compare.py) |
+| 844 - Backspace String Compare | string, array, join | [Append to a list every char different from #, use join to build the new string.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/844%20-%20Backspace%20string%20compare.py) |
