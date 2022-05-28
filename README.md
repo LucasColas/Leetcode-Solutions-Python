@@ -12,4 +12,5 @@
 | 706 - Design HashMap | array, index | [Use an array, the key serves as an index in the array.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/706%20-%20Design%20HashMap.py) | 
 | 844 - Backspace String Compare | string, array, join | [Append to a list every char different from #, use join to build the new string.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/844%20-%20Backspace%20string%20compare.py) |
 | 1679 - Max Number of K-Sum Pairs | Two pointers | [Sort the array.Two pointers. One starts from very begining & another from the end of the array.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/1679%20-%20Max%20Number%20of%20K-Sum%20Pairs.py) |
-| 191 - Number of 1 Bits | loop | [Iterate until n = 0. Divide by 2 and use modulo 2.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/191%20-%20Number%20of%201%20Bits.py)
+| 191 - Number of 1 Bits | loop | [Iterate until n = 0. Divide by 2 and use modulo 2.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/191%20-%20Number%20of%201%20Bits.py) |
+| 703 - Kth Largest Element in a Stream | Heap | [Use heap. Pop until the length of the heap is equal to k.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/703%20-%20Kth%20Largest%20Element%20in%20a%20Stream.py) |
