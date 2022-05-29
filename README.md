@@ -14,3 +14,4 @@
 | 1679 - Max Number of K-Sum Pairs | Two pointers | [Sort the array.Two pointers. One starts from very begining & another from the end of the array.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/1679%20-%20Max%20Number%20of%20K-Sum%20Pairs.py) |
 | 191 - Number of 1 Bits | loop | [Iterate until n = 0. Divide by 2 and use modulo 2.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/191%20-%20Number%20of%201%20Bits.py) |
 | 703 - Kth Largest Element in a Stream | Heap | [Use heap. Pop until the length of the heap is equal to k.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/703%20-%20Kth%20Largest%20Element%20in%20a%20Stream.py) |
+| 318 - Maximum Product of Word Lengths | string, loop | [Compare each string with every other string of the list.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/318%20-%20Maximum%20Product%20of%20Word%20Lengths.py)
