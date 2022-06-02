@@ -16,3 +16,4 @@
 | 703 - Kth Largest Element in a Stream | Heap | [Use heap. Pop until the length of the heap is equal to k.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/703%20-%20Kth%20Largest%20Element%20in%20a%20Stream.py) |
 | 318 - Maximum Product of Word Lengths | string, loop | [Compare each string with every other string of the list.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/318%20-%20Maximum%20Product%20of%20Word%20Lengths.py) |
 | 1480 - Running Sum of 1d Array | for loop | [To alculate the i-th number : i-th value of nums + i-1-th value.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/1480%20-%20Running%20Sum%20of%201d%20Array.py) |
+| 867 - Transpose Matrix | loop, array | [New 2D array to contain the transpose of a Matrix. new_matrix(j)(i) = matrix(i)(j)](https://leetcode.com/problems/transpose-matrix/) |
