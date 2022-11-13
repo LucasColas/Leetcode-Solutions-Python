@@ -21,4 +21,4 @@
 | 1662 - Check If Two String Arrays are Equivalent | strings | [Use join to concatenate every string of an array.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/1662%20-%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent) |
 | 766 - Toeplitz Matrix | Array | [Iterate through the 2D array. Check if matrix[i-1][j-1] != matrix[i][j].](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/766%20-%20Toeplitz%20Matrix) |
 | 2089 - Find Target Indices After Sorting Array | Array, sort | [Iterate over the vector and compare each value with target.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/2089%20-%20Find%20Target%20Indices%20After%20Sorting%20Array.py)|
-
+| 151 - Reverse Words in a String| String | [Split the string and convert it into a list, then reverse the list and transform the latter in a string.](https://github.com/LucasColas/Leetcode-Solutions-Python/blob/main/151%20-%20Reverse%20Words%20in%20a%20String.py) | 
